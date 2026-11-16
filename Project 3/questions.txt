@@ -1,0 +1,15 @@
+# Format:
+# MCQ|question text|option A|option B|option C|option D|correct option|points
+# SHORT|question text|correct answer|points
+# Do not use the | character inside a question or answer.
+
+MCQ|Which keyword is used to define a class in C++?|object|class|struct|define|B|1
+MCQ|Which access specifier makes members accessible only inside the class?|public|protected|private|global|C|1
+MCQ|Which function is called automatically when an object is created?|Destructor|Constructor|Friend function|Template|B|1
+MCQ|Which OOP concept allows a derived class to reuse a base class?|Encapsulation|Inheritance|Compilation|Casting|B|1
+MCQ|Which keyword supports runtime polymorphism in C++?|static|friend|virtual|inline|C|1
+MCQ|Which operator is commonly overloaded for output with cout?|>>|<<|==|&&|B|1
+MCQ|Which STL container stores elements in a dynamic array-like sequence?|map|set|vector|queue|C|1
+MCQ|Which header is needed for std::vector?|<map>|<vector>|<stack>|<string>|B|1
+SHORT|What is the name of the function that destroys an object?|destructor|1
+SHORT|What does STL stand for?|Standard Template Library|1
